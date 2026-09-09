@@ -3,9 +3,13 @@
 {
   "extends": "./tsconfig.json",
   "compilerOptions": {
+<<<<<<< HEAD
     "types": [
       "node"
     ]
+=======
+    "types": []
+>>>>>>> c61d90c4743290f0ac18e019c5e29bb451f9958e
   },
   "include": [
     "src/**/*.ts"
